@@ -4,11 +4,11 @@ Taller práctico R - Modulo 2
 El  archivo  at_health_facilities.csv  contiene  un  conjunto  de  datos  ordenado  y 
 conformado por 4 columnas: 
  
-• iso3: Código del país que reportó los datos. 
-• year: año para el cual el dato fue reportado. 
-• age 15-17: porcentaje de niños VIH positivo, nacidos de madres VIH positivo 
+- iso3: Código del país que reportó los datos. 
+- year: año para el cual el dato fue reportado. 
+- age 15-17: porcentaje de niños VIH positivo, nacidos de madres VIH positivo 
 con edades entre 15 y 17 años. 
-• age 20-34: porcentaje de niños VIH positivo, nacidos de madres VIH positivo 
+- age 20-34: porcentaje de niños VIH positivo, nacidos de madres VIH positivo 
 con edades entre 20 y 34 años. 
  
 Con  esta  información  crea  un  script  de  R  con  el  código  de  resolución  que  permita 
