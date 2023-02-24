@@ -1,4 +1,4 @@
-# Taller-pr-ctico-R
+# Taller-practico-R
 Taller práctico R - Modulo 2
 
 El  archivo  at_health_facilities.csv  contiene  un  conjunto  de  datos  ordenado  y 
