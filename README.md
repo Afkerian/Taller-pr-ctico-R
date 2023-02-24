@@ -20,3 +20,24 @@ cada país?
 3. Cuántos países reportaron datos en 3 años o más? 
 4. Qué  países  reportaron  el  100%  de  incidencia  para  al  menos  un  año  en 
 cualquier grupo de edad?
+
+---
+
+Si ejecuta el archivo ipynb en Colab no es necesario que realice lo que se menciona a continuacion:
+
+1. Cree un ambiente
+~~~
+python -m venv taller_env/
+~~~
+
+2. Active el ambiente
+~~~
+source taller_env/Script/activate
+~~~
+
+3. Instale los requerimientos
+~~~
+pip install -r requirements.txt
+~~~
+
+4. Ejecute el ipynb
